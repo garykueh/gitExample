@@ -28,7 +28,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Press Here 2!"/>
                                 <connections>
-                                    <action selector="buttonClicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ie0-tj-wFc"/>
+                                    <action selector="buttonClicked2:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZfK-xp-dPD"/>
                                 </connections>
                             </button>
                         </subviews>
